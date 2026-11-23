@@ -1,0 +1,9 @@
+Sensor, Fusion, or Machine Learning Algorithm? Mapping Spruce Budworm Defoliation from RGB, Multispectral and Stacked UAV Imagery
+The best model was the stacked RGB + multispectral data with XGBoost at 96.3% overall accuracy. Moving from RGB to multispectral raised accuracy by 12.2 pts on average and stacking added 4.5 pts more, while the choice of algorithm changed accuracy by 12.7 pts on RGB but only 2.3 pts on the stack.
+
+About the project
+Spruce budworm (Choristoneura fumiferana) is a native moth whose caterpillars feed on the new needles of balsam fir and spruce. Its outbreaks return every few decades and can defoliate and kill trees across vast areas of the spruce–fir forests of eastern Canada and the north-eastern United States. An outbreak that began in Quebec in the mid-2000s has since spread through New Brunswick toward northern Maine, so detecting defoliation early, tree by tree, matters for planning surveys, protection and salvage.
+
+Ground surveys are slow, and satellite pixels are larger than a single crown. Drones can map individual crowns, but which camera is needed? Consumer RGB cameras are cheap and sharp but see only visible light. Multispectral cameras add red-edge and near-infrared bands that respond directly to leaf area, at a higher cost and with more processing.
+
+This project used a single DJI Mavic 3 Multispectral flight over a forest in northern Maine. The drone records RGB and multispectral images at the same time, so the two cameras can be compared on exactly the same trees. The RGB image, the multispectral image and both stacked together were each classified into Defoliated, Not defoliated and Non-tree with three machine-learning algorithms (Random Forest, Support Vector Machine and XGBoost) under identical training and testing. The question is which matters most for mapping defoliation: the sensor, fusing both sensors, or the algorithm.
