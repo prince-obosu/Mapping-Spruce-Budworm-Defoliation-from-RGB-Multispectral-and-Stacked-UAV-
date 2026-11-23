@@ -1,0 +1,10 @@
+Sensor,Class,Training_objects,Test_objects
+RGB,Defoliated,108,41
+RGB,Not defoliated,195,131
+RGB,Non-tree,498,198
+MS,Defoliated,108,52
+MS,Not defoliated,196,134
+MS,Non-tree,459,192
+Stack,Defoliated,106,39
+Stack,Not defoliated,199,122
+Stack,Non-tree,452,193

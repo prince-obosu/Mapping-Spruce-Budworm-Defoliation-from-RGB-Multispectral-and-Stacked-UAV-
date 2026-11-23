@@ -1,0 +1,82 @@
+"Sensor","Model","Reference","Predicted","Objects"
+"RGB","RF","Defoliated","Defoliated",19
+"RGB","RF","Not defoliated","Defoliated",9
+"RGB","RF","Non-tree","Defoliated",65
+"RGB","RF","Defoliated","Not defoliated",9
+"RGB","RF","Not defoliated","Not defoliated",122
+"RGB","RF","Non-tree","Not defoliated",2
+"RGB","RF","Defoliated","Non-tree",13
+"RGB","RF","Not defoliated","Non-tree",0
+"RGB","RF","Non-tree","Non-tree",131
+"RGB","SVM","Defoliated","Defoliated",20
+"RGB","SVM","Not defoliated","Defoliated",3
+"RGB","SVM","Non-tree","Defoliated",24
+"RGB","SVM","Defoliated","Not defoliated",7
+"RGB","SVM","Not defoliated","Not defoliated",127
+"RGB","SVM","Non-tree","Not defoliated",2
+"RGB","SVM","Defoliated","Non-tree",14
+"RGB","SVM","Not defoliated","Non-tree",1
+"RGB","SVM","Non-tree","Non-tree",172
+"RGB","XGBoost","Defoliated","Defoliated",18
+"RGB","XGBoost","Not defoliated","Defoliated",4
+"RGB","XGBoost","Non-tree","Defoliated",45
+"RGB","XGBoost","Defoliated","Not defoliated",9
+"RGB","XGBoost","Not defoliated","Not defoliated",127
+"RGB","XGBoost","Non-tree","Not defoliated",16
+"RGB","XGBoost","Defoliated","Non-tree",14
+"RGB","XGBoost","Not defoliated","Non-tree",0
+"RGB","XGBoost","Non-tree","Non-tree",137
+"MS","RF","Defoliated","Defoliated",37
+"MS","RF","Not defoliated","Defoliated",24
+"MS","RF","Non-tree","Defoliated",3
+"MS","RF","Defoliated","Not defoliated",14
+"MS","RF","Not defoliated","Not defoliated",110
+"MS","RF","Non-tree","Not defoliated",1
+"MS","RF","Defoliated","Non-tree",1
+"MS","RF","Not defoliated","Non-tree",0
+"MS","RF","Non-tree","Non-tree",188
+"MS","SVM","Defoliated","Defoliated",37
+"MS","SVM","Not defoliated","Defoliated",10
+"MS","SVM","Non-tree","Defoliated",3
+"MS","SVM","Defoliated","Not defoliated",14
+"MS","SVM","Not defoliated","Not defoliated",124
+"MS","SVM","Non-tree","Not defoliated",1
+"MS","SVM","Defoliated","Non-tree",1
+"MS","SVM","Not defoliated","Non-tree",0
+"MS","SVM","Non-tree","Non-tree",188
+"MS","XGBoost","Defoliated","Defoliated",38
+"MS","XGBoost","Not defoliated","Defoliated",16
+"MS","XGBoost","Non-tree","Defoliated",1
+"MS","XGBoost","Defoliated","Not defoliated",13
+"MS","XGBoost","Not defoliated","Not defoliated",118
+"MS","XGBoost","Non-tree","Not defoliated",1
+"MS","XGBoost","Defoliated","Non-tree",1
+"MS","XGBoost","Not defoliated","Non-tree",0
+"MS","XGBoost","Non-tree","Non-tree",190
+"Stack","RF","Defoliated","Defoliated",33
+"Stack","RF","Not defoliated","Defoliated",7
+"Stack","RF","Non-tree","Defoliated",3
+"Stack","RF","Defoliated","Not defoliated",5
+"Stack","RF","Not defoliated","Not defoliated",115
+"Stack","RF","Non-tree","Not defoliated",0
+"Stack","RF","Defoliated","Non-tree",1
+"Stack","RF","Not defoliated","Non-tree",0
+"Stack","RF","Non-tree","Non-tree",190
+"Stack","SVM","Defoliated","Defoliated",31
+"Stack","SVM","Not defoliated","Defoliated",6
+"Stack","SVM","Non-tree","Defoliated",4
+"Stack","SVM","Defoliated","Not defoliated",6
+"Stack","SVM","Not defoliated","Not defoliated",113
+"Stack","SVM","Non-tree","Not defoliated",0
+"Stack","SVM","Defoliated","Non-tree",2
+"Stack","SVM","Not defoliated","Non-tree",3
+"Stack","SVM","Non-tree","Non-tree",189
+"Stack","XGBoost","Defoliated","Defoliated",31
+"Stack","XGBoost","Not defoliated","Defoliated",2
+"Stack","XGBoost","Non-tree","Defoliated",3
+"Stack","XGBoost","Defoliated","Not defoliated",7
+"Stack","XGBoost","Not defoliated","Not defoliated",120
+"Stack","XGBoost","Non-tree","Not defoliated",0
+"Stack","XGBoost","Defoliated","Non-tree",1
+"Stack","XGBoost","Not defoliated","Non-tree",0
+"Stack","XGBoost","Non-tree","Non-tree",190

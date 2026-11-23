@@ -1,0 +1,82 @@
+"Model","Data_A","Data_B","Class_A","Class_B","Percent_of_area"
+"RF","RGB","MS","Defoliated","Defoliated",15.4171810367919
+"RF","RGB","MS","Defoliated","Not defoliated",6.51440786759576
+"RF","RGB","MS","Defoliated","Non-tree",7.12596970235465
+"RF","RGB","MS","Not defoliated","Defoliated",20.1344465220192
+"RF","RGB","MS","Not defoliated","Not defoliated",25.4211597060922
+"RF","RGB","MS","Not defoliated","Non-tree",2.53499420498167
+"RF","RGB","MS","Non-tree","Defoliated",3.74371288999739
+"RF","RGB","MS","Non-tree","Not defoliated",1.51116045569655
+"RF","RGB","MS","Non-tree","Non-tree",17.5969676144706
+"RF","RGB","Stack","Defoliated","Defoliated",15.6574528234137
+"RF","RGB","Stack","Defoliated","Not defoliated",5.56433938101551
+"RF","RGB","Stack","Defoliated","Non-tree",7.83576640231318
+"RF","RGB","Stack","Not defoliated","Defoliated",6.57735366595847
+"RF","RGB","Stack","Not defoliated","Not defoliated",38.9380569940446
+"RF","RGB","Stack","Not defoliated","Non-tree",2.57518977309004
+"RF","RGB","Stack","Non-tree","Defoliated",3.81191116087506
+"RF","RGB","Stack","Non-tree","Not defoliated",0.745452705993113
+"RF","RGB","Stack","Non-tree","Non-tree",18.2944770932964
+"RF","MS","Stack","Defoliated","Defoliated",19.7753074033128
+"RF","MS","Stack","Defoliated","Not defoliated",17.1081416993374
+"RF","MS","Stack","Defoliated","Non-tree",2.41189134615838
+"RF","MS","Stack","Not defoliated","Defoliated",5.36682125290865
+"RF","MS","Stack","Not defoliated","Not defoliated",28.020410206571
+"RF","MS","Stack","Not defoliated","Non-tree",0.0594965699048002
+"RF","MS","Stack","Non-tree","Defoliated",0.904588994025706
+"RF","MS","Stack","Non-tree","Not defoliated",0.119297175144797
+"RF","MS","Stack","Non-tree","Non-tree",26.2340453526364
+"SVM","RGB","MS","Defoliated","Defoliated",15.3332882522319
+"SVM","RGB","MS","Defoliated","Not defoliated",5.52873579486631
+"SVM","RGB","MS","Defoliated","Non-tree",6.78220009404127
+"SVM","RGB","MS","Not defoliated","Defoliated",14.9139711051108
+"SVM","RGB","MS","Not defoliated","Not defoliated",32.0254362251812
+"SVM","RGB","MS","Not defoliated","Non-tree",2.36092873359323
+"SVM","RGB","MS","Non-tree","Defoliated",3.11673960893717
+"SVM","RGB","MS","Non-tree","Not defoliated",1.87445122932494
+"SVM","RGB","MS","Non-tree","Non-tree",18.0642489567132
+"SVM","RGB","Stack","Defoliated","Defoliated",17.1231337865557
+"SVM","RGB","Stack","Defoliated","Not defoliated",3.83697835006314
+"SVM","RGB","Stack","Defoliated","Non-tree",6.68411200452069
+"SVM","RGB","Stack","Not defoliated","Defoliated",4.62451374003826
+"SVM","RGB","Stack","Not defoliated","Not defoliated",41.1969346947826
+"SVM","RGB","Stack","Not defoliated","Non-tree",3.47888762906431
+"SVM","RGB","Stack","Non-tree","Defoliated",2.43481980402302
+"SVM","RGB","Stack","Non-tree","Not defoliated",0.749384197396514
+"SVM","RGB","Stack","Non-tree","Non-tree",19.8712357935558
+"SVM","MS","Stack","Defoliated","Defoliated",17.6156290936654
+"SVM","MS","Stack","Defoliated","Not defoliated",12.2704258014869
+"SVM","MS","Stack","Defoliated","Non-tree",3.47794407112749
+"SVM","MS","Stack","Not defoliated","Defoliated",4.22326048541862
+"SVM","MS","Stack","Not defoliated","Not defoliated",33.2834610543841
+"SVM","MS","Stack","Not defoliated","Non-tree",1.92190170956972
+"SVM","MS","Stack","Non-tree","Defoliated",2.34357775153289
+"SVM","MS","Stack","Non-tree","Not defoliated",0.229410386371249
+"SVM","MS","Stack","Non-tree","Non-tree",24.6343896464436
+"XGBoost","RGB","MS","Defoliated","Defoliated",13.1902794661349
+"XGBoost","RGB","MS","Defoliated","Not defoliated",4.63210413944109
+"XGBoost","RGB","MS","Defoliated","Non-tree",9.48786296183885
+"XGBoost","RGB","MS","Not defoliated","Defoliated",20.8743427201622
+"XGBoost","RGB","MS","Not defoliated","Not defoliated",27.9101816715968
+"XGBoost","RGB","MS","Not defoliated","Non-tree",3.15263674644449
+"XGBoost","RGB","MS","Non-tree","Defoliated",3.08176506141252
+"XGBoost","RGB","MS","Non-tree","Not defoliated",1.02445230393259
+"XGBoost","RGB","MS","Non-tree","Non-tree",16.6463749290366
+"XGBoost","RGB","Stack","Defoliated","Defoliated",16.3520582405895
+"XGBoost","RGB","Stack","Defoliated","Not defoliated",2.29819261477203
+"XGBoost","RGB","Stack","Defoliated","Non-tree",8.65999571205338
+"XGBoost","RGB","Stack","Not defoliated","Defoliated",6.9118973744452
+"XGBoost","RGB","Stack","Not defoliated","Not defoliated",41.704610800698
+"XGBoost","RGB","Stack","Not defoliated","Non-tree",3.32065296306023
+"XGBoost","RGB","Stack","Non-tree","Defoliated",3.18371125449697
+"XGBoost","RGB","Stack","Non-tree","Not defoliated",0.55610159602825
+"XGBoost","RGB","Stack","Non-tree","Non-tree",17.0127794438565
+"XGBoost","MS","Stack","Defoliated","Defoliated",19.3412288164691
+"XGBoost","MS","Stack","Defoliated","Not defoliated",15.6571383041014
+"XGBoost","MS","Stack","Defoliated","Non-tree",2.14802012713919
+"XGBoost","MS","Stack","Not defoliated","Defoliated",4.78164758844938
+"XGBoost","MS","Stack","Not defoliated","Not defoliated",28.7002122481159
+"XGBoost","MS","Stack","Not defoliated","Non-tree",0.0848782784051564
+"XGBoost","MS","Stack","Non-tree","Defoliated",2.32479046461317
+"XGBoost","MS","Stack","Non-tree","Not defoliated",0.201554459281019
+"XGBoost","MS","Stack","Non-tree","Non-tree",26.7605297134257
